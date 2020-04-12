@@ -5,8 +5,8 @@ title: <strong>Maša</strong> Bešlin
 description: ˈmaʃə ˈbɛʃlɪn
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: prof_pic1.jpg
 
 social: true
 ---
