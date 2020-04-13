@@ -6,7 +6,7 @@ description: ˈmaʃə ˈbɛʃlɪn
 
 profile:
   align: left
-  image: prof_pic1.png
+  image: prof_pic2.png
 
 social: true
 ---
