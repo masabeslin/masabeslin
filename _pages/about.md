@@ -11,7 +11,7 @@ profile:
 social: true
 ---
 
-I’m a first-year PhD student in the <span sty>[Linguistics Department](http://ling.umd.edu/){:target="\_blank"} at the [University of Maryland, College Park](https://www.umd.edu/){:target="\_blank"}. My advisers are [Masha Polinsky](http://www.mariapolinsky.com/){:target="\_blank"} and [Omer Preminger](https://omer.lingsite.org/){:target="\_blank"}.
+I’m a second-year PhD student in the <span sty>[Linguistics Department](http://ling.umd.edu/){:target="\_blank"} at the [University of Maryland, College Park](https://www.umd.edu/){:target="\_blank"}. My advisers are [Masha Polinsky](http://www.mariapolinsky.com/){:target="\_blank"} and [Omer Preminger](https://omer.lingsite.org/){:target="\_blank"}.
 
 Very broadly, I’m interested in exploring what the limitations of natural language can tell us about its general properties. My research is in morphology and syntax, with an empirical focus on Slavic languages. My previous work explored the properties of bare-NP adverbials, specifically the locus of their case and their relation to overt PPs.
 
