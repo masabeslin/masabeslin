@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: <strong>Maša</strong> Bešlin
+title: <strong>Maša</strong> <strong>Bešlin</strong>
 description: ˈmaʃə ˈbɛʃlɪn
 
 profile:
