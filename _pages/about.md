@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Maša</strong> <strong>Bešlin</strong>
-description:<font size="+1">ˈmaʃə ˈbɛʃlɪn</font>
+description: <font size="+1">ˈmaʃə ˈbɛʃlɪn</font>
 
 profile:
   align: left
