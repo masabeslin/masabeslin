@@ -23,7 +23,6 @@
     // }
 }
 .post-content {
-	color: $red;
     h2 {
         font-size: 42px;
         // @include media-query($on-laptop) {
@@ -42,6 +41,9 @@
         //     font-size: 18px;
         // }
     }
+	p {
+		color: $red
+	}
 }
 .post-meta {
     color: $grey-color;
