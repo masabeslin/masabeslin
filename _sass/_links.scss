@@ -1,6 +1,7 @@
 a {
     color: $text-color;
     text-decoration: none;
+	font-weight: 200;
 
     &:hover {
         color: $blue;
@@ -10,7 +11,7 @@ a {
 
 article a, .news a {
     color: $blue;
-    font-weight: 100;
+    font-weight: 200;
 
     &:hover {
         text-decoration: underline;

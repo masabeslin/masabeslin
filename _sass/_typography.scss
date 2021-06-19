@@ -4,7 +4,7 @@ html {
 
 body {
     color: $text-color;
-    font-weight: 900;
+    font-weight: 100;
 }
 
 abbr {
@@ -13,7 +13,7 @@ abbr {
 }
 
 p {
-    color: #333;
+    color: #text-color;
     line-height: 1.5;
 }
 
