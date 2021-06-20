@@ -14,7 +14,7 @@ Milićev, Tanja and <strong>Maša Bešlin</strong>. 2019. Instrumental: Why It i
 
 <h1 style="font-size:130%;"><strong><u>Handouts & slides</u></strong></h1>
 
-<strong>Bešlin, Maša</strong>. 2020. No such thing as a _verbal participle_. _FDSL 14_. \[[slides]({{ '/assets/pdf/beslin_fdsl.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
+<strong>Bešlin, Maša</strong>. 2021. No such thing as a _verbal participle_. _FDSL 14_. \[[slides]({{ '/assets/pdf/beslin_fdsl.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
 
 
 <strong>Bešlin, Maša</strong>. 2020. Encoding the eventive/resultative/stative distinction on passive participles cross-linguistically.
