@@ -5,7 +5,9 @@ permalink: /handoutsandslides/
 ---
 <h1 style="font-size:130%;"><strong><u>Papers</u></strong></h1>
 
-<strong>Bešlin, Maša</strong>. Under review. Revisiting passive participles: category status and internal structure. \[e-mail me for a copy!\]
+<strong>Bešlin, Maša</strong>. In prep. Temporal interpretation in K'iche'. \[email me for a copy!\]
+
+<strong>Bešlin, Maša</strong>. Under review. Revisiting passive participles: category status and internal structure. \[email me for a copy!\]
 
 Milićev, Tanja and <strong>Maša Bešlin</strong>. 2019. Instrumental: Why It is Absent from the Clitic System in Serbian/Croatian. Jezik, književnost, teorija. Niš: Faculty of Philosophy. \[[pdf]({{ '/assets/pdf/milicev_beslin_instrumental.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
 
