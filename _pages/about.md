@@ -11,7 +11,7 @@ profile:
 social: true
 ---
 
-I’m a second-year PhD student in the <span sty>[Linguistics Department](http://linguistics.umd.edu/){:target="\_blank"} at the [University of Maryland](https://www.umd.edu/){:target="\_blank"}. My advisors are [Masha Polinsky](http://www.mariapolinsky.com/){:target="\_blank"} and [Omer Preminger](https://omer.lingsite.org/){:target="\_blank"}.
+I’m a third-year PhD student in the <span sty>[Linguistics Department](http://linguistics.umd.edu/){:target="\_blank"} at the [University of Maryland](https://www.umd.edu/){:target="\_blank"}. My advisors are [Masha Polinsky](http://www.mariapolinsky.com/){:target="\_blank"} and [Omer Preminger](https://omer.lingsite.org/){:target="\_blank"}.
 
 Very broadly, I’m interested in exploring what the limitations of natural language can tell us about its general properties. My research is in morphology, syntax and semantics, with an empirical focus on Slavic and Mayan languages. Some of the topics I have been interested in are as follows: mixed categories (participles and nominalizations), inter- and intra-linguistic variation in the size of nominal phrases and its repercussions (the NP/DP debate), bare-NP adverbials, and the interplay of telicity, event complexity and grammatical aspect in Slavic.
  
