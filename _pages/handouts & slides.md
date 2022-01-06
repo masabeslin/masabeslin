@@ -20,6 +20,8 @@ Milićev, Tanja and <strong>Maša Bešlin</strong>. 2019. Instrumental: Why It i
 
 <h1 style="font-size:130%;"><strong><u>Handouts & slides</u></strong></h1>
 
+strong>Bešlin, Maša</strong>. 2021. A Mayan Temporal Puzzle. _Berkeley Syntax \& Semantics Circle_. \[[handout]({{ '/assets/pdf/beslin_mayan_temporal.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
+
 <strong>Bešlin, Maša</strong>. 2021. DP in a model NP language: Evidence from Serbo-Croatian personal pronouns. _IATL 36_. \[[slides]({{ '/assets/pdf/beslin_iatl.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
 
 <strong>Bešlin, Maša</strong>. 2021. No such thing as a _verbal participle_. _FDSL 14_. \[[slides]({{ '/assets/pdf/beslin_fdsl.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
