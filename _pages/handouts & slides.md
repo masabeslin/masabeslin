@@ -20,7 +20,7 @@ Milićev, Tanja and <strong>Maša Bešlin</strong>. 2019. Instrumental: Why It i
 
 <h1 style="font-size:130%;"><strong><u>Handouts & slides</u></strong></h1>
 
-<strong>Bešlin, Maša</strong>. 2023. Passive vP is not phasal in Bosnian/Croatian/Serbian. _LSA Annual Meeting_. \[[handout]({{ '/assets/pdf/beslin_LSA2023.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
+<strong>Bešlin, Maša</strong>. 2023. Passive vP is not phasal in Bosnian/Croatian/Serbian. _LSA 97_. \[[handout]({{ '/assets/pdf/beslin_LSA2023.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
 
 <strong>Bešlin, Maša</strong>. 2021. On raising-to-subject as a free syntactic operation. _ÖLT 46_. \[[handout]({{ '/assets/pdf/beslin_raising_vienna.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
 
