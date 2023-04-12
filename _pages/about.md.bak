@@ -17,4 +17,4 @@ Very broadly, I’m interested in exploring what the combinatorial limits of nat
  
 I'm affiliated with [UMD’s Guatemala Field Station](https://languagescience.umd.edu/beyond-umd/guatemala-field-station){:target="\_blank"}, where I've gained fieldwork experience in Kaqchikel and K’iche’. My research on these languages has examined exceptive constructions, antipassives, ellipsis, and the widely held (but not closely scrutinized) view that Mayan languages lack the category Tense.
 
-You can check out other topics I’ve worked on in [my CV](https://www.masabeslin.com/assets/pdf/masa_beslin_cv.pdf/){:target="\_blank"}.
+You can check out other topics I’ve worked on in [my CV](https://www.masabeslin.com/assets/pdf/masa_beslin_cv.pdf){:target="\_blank"}.
