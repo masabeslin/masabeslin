@@ -9,7 +9,7 @@ permalink: /handoutsandslides/
 
 <strong>Bešlin, Maša</strong>. in prep. Apparent Voice mismatches in K’iche’ ellipsis: Consequences for the Syntactic Identity Condition and theories of features. [email me for a draft!]
 
-<strong>Bešlin, Maša</strong>. submitted. Active participles are (deverbal) adjectives. _Journal of Linguistics._ \[[ draft pdf]({{ '/assets/pdf/beslin_active.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
+<strong>Bešlin, Maša</strong>. submitted. Active participles are (deverbal) adjectives. _Journal of Linguistics._ \[[pdf]({{ '/assets/pdf/beslin_active.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
 
 <strong>Bešlin, Maša</strong>. In press. Reanalyzing K'iche' as a Tensed Language. _Proceedings of WAIL 25_. \[[pdf]({{ '/assets/pdf/beslin_tense.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
 
