@@ -30,6 +30,8 @@ Milićev, Tanja and <strong>Maša Bešlin</strong>. 2019. Instrumental: Why It i
 
 <h1 style="font-size:130%;"><strong><u>Handouts & slides</u></strong></h1>
 
+<strong>Bešlin, Maša</strong>. 2024. Apparent Voice mismatches in K’iche’ ellipsis: Consequences for the Syntactic Identity Condition. _FAMLi VII_. \[[slides]({{ '/assets/pdf/beslin_famli.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
+
 <strong>Bešlin, Maša</strong>. 2024. Domain mismatches in syntax and morphophonology: The case of Bosnian/Croatian/Serbian adjectives. _NELS 54_. \[[poster]({{ '/assets/pdf/beslin_nels_locality.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
 
 <strong>Bešlin, Maša</strong>. 2023. The Darwin-Plato tension, grammatical primitives, and linguistic principles. _Hungarian Research Centre for Linguistics_. \[[handout]({{ '/assets/pdf/beslin_budapest.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
