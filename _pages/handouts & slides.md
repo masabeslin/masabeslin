@@ -30,9 +30,9 @@ Milićev, Tanja and <strong>Maša Bešlin</strong>. 2019. Instrumental: Why It i
 
 <h1 style="font-size:130%;"><strong><u>Handouts & slides</u></strong></h1>
 
-<strong>Bešlin, Maša</strong>. 2024. What's up with \`verbal' morphology in BCS agent nominals?. _FDSL 17_. \[[slides]({{ '/assets/pdf/beslin_fdsl_nominals.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
+<strong>Bešlin, Maša</strong>. 2024. What's up with \`verbal' morphology in BCS agent nominals? _FDSL 17_. \[[slides]({{ '/assets/pdf/beslin_fdsl_nominals.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
 
-<strong>Bešlin, Maša</strong>. 2024. What _actually_ delimits the domain of allomorphy?. _NELS 55_. \[[handout]({{ '/assets/pdf/beslin_nels_allomorphy.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
+<strong>Bešlin, Maša</strong>. 2024. What _actually_ delimits the domain of allomorphy? _NELS 55_. \[[handout]({{ '/assets/pdf/beslin_nels_allomorphy.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
 
 <strong>Bešlin, Maša</strong>. 2024. Apparent Voice mismatches in K’iche’ ellipsis: Consequences for the Syntactic Identity Condition. _FAMLi VII_. \[[slides]({{ '/assets/pdf/beslin_famli.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
 
