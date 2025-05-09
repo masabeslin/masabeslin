@@ -5,18 +5,15 @@ permalink: /handoutsandslides/
 ---
 <h1 style="font-size:130%;"><strong><u>Papers</u></strong></h1>
 
+<strong>Bešlin, Maša</strong>. in prep. What _actually_ delimits the context for allomorphy? _Proceedings of NELS 55._ [email me for a draft!]
 
 <strong>Bešlin, Maša</strong>. in prep. Apparent Voice mismatches in K’iche’ ellipsis: Consequences for the Syntactic Identity Condition and theories of features. [email me for a draft!]
 
-<strong>Bešlin, Maša</strong>. in press. Active participles are (deverbal) adjectives. _Journal of Linguistics._ \[[pdf]({{ '/assets/pdf/beslin_active.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
+<strong>Bešlin, Maša</strong>. accepted. Active participles are (deverbal) adjectives. _Journal of Linguistics._ \[[pdf]({{ '/assets/pdf/beslin_active.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
 
-<strong>Bešlin, Maša</strong>. in press. On locality conditions for allomorphy and the ordering of interface operations. _Proceedings of NELS 55._ \[[pdf]({{ '/assets/pdf/beslin_nels_allomorphy.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
+<strong>Bešlin, Maša</strong>. in press. On the incompatibility of two types of phases. _Proceedings of NELS 54._ \[[pdf]({{ '/assets/pdf/beslin_nels_phases.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
 
-<strong>Bešlin, Maša</strong>. in press. Missing verbal structure in BCS agent nominals. _Proceedings of FDSL 17._ \[[pdf]({{ '/assets/pdf/beslin_fdsl_AN.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
-
-<strong>Bešlin, Maša</strong>. 2024. On the incompatibility of two types of phases. _Proceedings of NELS 54._ \[[pdf]({{ '/assets/pdf/beslin_nels_phases.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
-
-<strong>Bešlin, Maša</strong>. 2024. DP in a model NP language: Evidence from Serbo-Croatian personal pronouns. _MIT Working Papers in Linguistics 95_. \[[pdf]({{ '/assets/pdf/beslin_pronouns.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
+<strong>Bešlin, Maša</strong>. in press. DP in a model NP language: Evidence from Serbo-Croatian personal pronouns. _MIT Working Papers in Linguistics_. \[[pdf]({{ '/assets/pdf/beslin_pronouns.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
 
 <strong>Bešlin, Maša</strong>. 2023. Revisiting Passive Participles: Category Status and Internal Structure. _Linguistic Inquiry 54_(4), 729-758. \[[pdf]({{ '/assets/pdf/beslin_passives.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
 
@@ -35,7 +32,7 @@ Milićev, Tanja and <strong>Maša Bešlin</strong>. 2019. Instrumental: Why It i
 
 <strong>Bešlin, Maša</strong>. 2024. What's up with \`verbal' morphology in BCS agent nominals? _FDSL 17_. \[[slides]({{ '/assets/pdf/beslin_fdsl_nominals.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
 
-<strong>Bešlin, Maša</strong>. 2024. What _actually_ delimits the domain of allomorphy? _NELS 55_. \[[handout]({{ '/assets/pdf/beslin_allomorphy_HO.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
+<strong>Bešlin, Maša</strong>. 2024. What _actually_ delimits the domain of allomorphy? _NELS 55_. \[[handout]({{ '/assets/pdf/beslin_nels_allomorphy.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
 
 <strong>Bešlin, Maša</strong>. 2024. Apparent Voice mismatches in K’iche’ ellipsis: Consequences for the Syntactic Identity Condition. _FAMLi VII_. \[[slides]({{ '/assets/pdf/beslin_famli.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
 
