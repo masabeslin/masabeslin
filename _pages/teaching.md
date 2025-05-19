@@ -26,3 +26,16 @@ nav_order: 6
 <h1 style="color:#00369f;font-size:100%;">Introduction to Syntax (NYI Global Institute of Cultural, Cognitive and Linguistic Studies, 2022/5)</h1>
 
 <h1 style="font-size:80%;"><strong>This course is an introduction to the foundational findings and concepts of the generative approach to the syntax of natural languages. Some of the issues we touch on include: the hierarchical organization of expressions in language; the syntax of disjoint reference and covariation (a.k.a. Binding Theory); and movement (i.e., the displacement of syntactic units) and its subtypes. For each of these, we first present a sampling of the kind of data that (hopefully) convinces us that there is a phenomenon to be explained, in the first place. Then, we present (and critically evaluate) theoretical accounts of these phenomena. In doing so, we keep our sights set on the following overarching factors: cross-linguistic differences, and cross-linguistic invariants (a.k.a. "universals"), and how to account for each; and the relationship between the linguistic system that humans end up acquiring and the data/input available to them in the course of this acquisition.</strong></h1>
+
+
+<h1 style="font-size:130%;"><strong><u>As a teaching assistant</u></strong></h1>
+
+<h1 style="color:#00369f;font-size:100%;">Language and Mind (University of Maryland, fall 2024)</h1>
+
+<h1 style="color:#00369f;font-size:100%;">Verb-Initial Languages (CreteLing, summer 2022)</h1>
+
+<h1 style="color:#00369f;font-size:100%;">Syntax II (University of Maryland, spring 2022)</h1>
+
+<h1 style="color:#00369f;font-size:100%;">Syntax I (University of Maryland, fall 2021)</h1>
+
+<h1 style="color:#00369f;font-size:100%;">Introduction to Linguistics (University of Maryland, spring 2021)</h1>
