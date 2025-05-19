@@ -1,7 +1,7 @@
 ---
 layout: page
-title: papers & handouts
-permalink: /handoutsandslides/
+title: materials
+permalink: /materials/
 ---
 <h1 style="font-size:130%;"><strong><u>Papers</u></strong></h1>
 
