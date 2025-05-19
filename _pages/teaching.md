@@ -9,7 +9,7 @@ nav_order: 6
 
 <h1 style="font-size:130%;"><strong><u>As instructor of record</u></strong></h1>
 
-<h1 style="sass:color:blue-color-dark";>Locality: From syntax to the interfaces</h1>(Graduate seminar, Georgetown University, fall 2025)
+<h1 style="sass:color: #00369f !default";>Locality: From syntax to the interfaces</h1>(Graduate seminar, Georgetown University, fall 2025)
 
 <h1 style="font-size:80%;"><strong>Description: The principal non-Markovian characteristic of human language syntax is that it involves long-distance dependencies (displacement, agreement). One of the fundamental discoveries of Generative linguistics has been that, contrary to appearances, syntactic dependencies are always relatively local. Much work since the 1970s has focused on understanding the principles that regulate syntactic locality. In the last thirty years or so, there has also been increased interest in leveraging syntactic locality domains to explain locality effects at the interfaces with form and meaning. </strong></h1>
 
