@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: about
 permalink: /
 title: <strong>Maša</strong> <strong>Bešlin</strong>
 description: ˈmaʃə ˈbɛʃlɪn
