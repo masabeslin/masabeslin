@@ -3,7 +3,7 @@ a {
     text-decoration: none;
 
     &:hover {
-        color: $blue;
+        color: #00369f;
         text-decoration: none;
     }
 }
