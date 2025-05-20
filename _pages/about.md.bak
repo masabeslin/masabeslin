@@ -1,9 +1,7 @@
 ---
 layout: about
 permalink: /
-title: <strong>Maša</strong> <strong>Bešlin</strong> 
-
-<h1 style="font-size:90%;">  \[ˈmaʃə ˈbɛʃlɪn\]  </h1>
+title: <strong>Maša</strong> <strong>Bešlin</strong> <br> <h1 style="font-size:90%;">ˈmaʃə ˈbɛʃlɪn </h1>
 description: ˈmaʃə ˈbɛʃlɪn
 
 profile:
