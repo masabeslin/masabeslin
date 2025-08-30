@@ -11,7 +11,7 @@ profile:
 social: true
 ---
 
-I'm a Postdoctoral Associate in Syntax in the [Linguistics Department](https://linguistics.georgetown.edu/){:target="\_blank"} at [Georgetown University](https://www.georgetown.edu/){:target="\_blank"}. I have a PhD in Linguistics from the <span sty>[University of Maryland](http://linguistics.umd.edu/){:target="\_blank"}, where I was advised by [Masha Polinsky](http://www.mariapolinsky.com/){:target="\_blank"} and [Dave Embick](https://www.ling.upenn.edu/~embick/){:target="\_blank"}.
+I'm a Postdoctoral Associate in Syntax in the [Linguistics Department](https://linguistics.georgetown.edu/){:target="\_blank"} at [Georgetown University](https://www.georgetown.edu/){:target="\_blank"}. I have a PhD in Linguistics from the <span sty>[University of Maryland](http://linguistics.umd.edu/){:target="\_blank"}, where I was  <br> advised by [Masha Polinsky](http://www.mariapolinsky.com/){:target="\_blank"} and [Dave Embick](https://www.ling.upenn.edu/~embick/){:target="\_blank"}.
 
 Very broadly, I’m interested in exploring what the combinatorial limits of natural language tell us about its general properties. My research is primarily in syntax and its interfaces with form and meaning, with an empirical focus on Slavic and Mayan languages. 
 
