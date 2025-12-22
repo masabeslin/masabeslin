@@ -11,7 +11,7 @@ nav_order: 6
 
 <h1 style="color:#2698ba;font-size:100%;"> Generative Syntax I (Graduate introduction to syntax, Georgetown University, spring 2026)</h1>
 
-<h1 style=font-size:75%;"> \[This is a required introductory course for all Master's and Doctoral students in Linguistics. It brings together a mix of students from the theoretical, applied, computational and sociolinguistics concentrations.\]
+<h1 style="font-size:75%;"> \[This is a required introductory course for all Master's and Doctoral students in Linguistics. It brings together a mix of students from the theoretical, applied, computational and sociolinguistics concentrations.\]
 
 <h1 style="font-size:85%;"> This course introduces students to the core concepts and main empirical findings of Generative syntax. After a brief overview of the philosophy and methodology of Generative grammar, we proceed bottom-up, motivating hierarchical phrase structure and its specific organization in natural language. We then turn our attention to phenomena such as the distribution and referential properties of noun phrases, distinctions among clause types, and the various forms of displacement. The course consists of lecture presentations, class discussions, and intensive problem-solving and argumentation exercises. The primary goal is to master the fundamentals of how to theorize in syntax: how to formulate precise syntactic hypotheses; how to use those hypothesis to guide the search for interesting data; how to separate relevant data from “noise” that the data may contain; and how to develop (and critique) syntactic argumentation. </h1>
 
