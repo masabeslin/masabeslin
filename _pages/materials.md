@@ -39,7 +39,7 @@ Milićev, Tanja and <strong>Maša Bešlin</strong>. 2019. Instrumental: Why It i
 
 <h1 style="font-size:130%;"><strong><u>Handouts & slides</u></strong></h1>
 
-<strong>Bešlin, Maša</strong> and Ruth Kramer. 2026. The impoverished bishop: Gender, number, and markedness in BCS. _FASL/WCCFL/BMW_.\[[handout]({{ '/assets/pdf/beslin_kramer_bishop_nouns.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
+<strong>Bešlin, Maša</strong> and Ruth Kramer. 2026. The impoverished bishop: Gender, number, and markedness in BCS. _FASL/WCCFL/BMW_. \[[handout]({{ '/assets/pdf/beslin_kramer_bishop_nouns.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
 
 <strong>Bešlin, Maša</strong>. 2025. Accounting for opacity effects at the form interface without the PIC. _NELS 56_. \[[poster]({{ '/assets/pdf/beslin_nels_PF opacity without PIC.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
 
