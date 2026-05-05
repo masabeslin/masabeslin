@@ -39,7 +39,7 @@ Milićev, Tanja and <strong>Maša Bešlin</strong>. 2019. Instrumental: Why It i
 
 <h1 style="font-size:130%;"><strong><u>Handouts & slides</u></strong></h1>
 
-<strong>Bešlin, Maša</strong>, Predrag Kovačević, Stefan Ivanović and Utku Turk. 2026. The status of Slavic lexical prefixes in mental grammar: Evidence from priming in Bosnian/Croatian/Montenegrin/Serbian. _FASL 35_. \[[handout]({{ '/assets/pdf/beslin et al_prefixes_priming_slides.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
+<strong>Bešlin, Maša</strong>, Predrag Kovačević, Stefan Ivanović and Utku Turk. 2026. The status of Slavic lexical prefixes in mental grammar: Evidence from priming in Bosnian/Croatian/Montenegrin/Serbian. _FASL 35_. \[[slides]({{ '/assets/pdf/beslin et al_prefixes_priming_slides.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
 
 <strong>Bešlin, Maša</strong> and Ruth Kramer. 2026. The impoverished bishop: Gender, number, and markedness in BCS. _FASL 35/WCCFL 44/BMW_. \[[handout]({{ '/assets/pdf/beslin_kramer_bishop_nouns.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
 
