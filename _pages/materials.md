@@ -12,13 +12,15 @@ permalink: /materials/
 <h1 style="font-size:130%;"><strong><u>Papers</u></strong></h1>
 
 
-<strong>Bešlin, Maša</strong>. in prep. Apparent Voice mismatches in K’iche’ ellipsis: Consequences for the Syntactic Identity Condition and theories of features. [email me for a draft!]
+<strong>Bešlin, Maša</strong>. accepted. Apparent voice mismatches in K’iche’ ellipsis: non-distinctness, argument structure, and syntactic feature composition. _Natural Language & Linguistic Theory._ \[[pdf]({{ '/assets/pdf/beslin_ellipsis_nllt.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
 
-<strong>Bešlin, Maša</strong>. in press. Active participles are (deverbal) adjectives. _Journal of Linguistics._ \[[pdf]({{ '/assets/pdf/beslin_active.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
-
-<strong>Bešlin, Maša</strong>. in press. On locality conditions for allomorphy and the ordering of interface operations. _Proceedings of NELS 55._ \[[pdf]({{ '/assets/pdf/beslin_nels_allomorphy.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
+<strong>Bešlin, Maša</strong>. in press. Restricting allomorphy without spell-out opacity. _Proceedings of NELS 56._ \[[pdf]({{ '/assets/pdf/beslin_allomorphy_nels56.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
 
 <strong>Bešlin, Maša</strong>. in press. Missing verbal structure in BCS agent nominals. _Proceedings of FDSL 17._ \[[pdf]({{ '/assets/pdf/beslin_fdsl_AN.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
+
+<strong>Bešlin, Maša</strong>. 2025. Active participles are (deverbal) adjectives. _Journal of Linguistics._ \[[pdf]({{ '/assets/pdf/beslin_active.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
+
+<strong>Bešlin, Maša</strong>. 2025. On locality conditions for allomorphy and the ordering of interface operations. _Proceedings of NELS 55._ \[[pdf]({{ '/assets/pdf/beslin_nels_allomorphy.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
 
 <strong>Bešlin, Maša</strong>. 2024. On the incompatibility of two types of phases. _Proceedings of NELS 54._ \[[pdf]({{ '/assets/pdf/beslin_nels_phases.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
 
@@ -38,6 +40,12 @@ Milićev, Tanja and <strong>Maša Bešlin</strong>. 2019. Instrumental: Why It i
 
 
 <h1 style="font-size:130%;"><strong><u>Handouts & slides</u></strong></h1>
+
+<strong>Bešlin, Maša</strong>, Predrag Kovačević, Stefan Ivanović and Utku Turk. 2026. The status of Slavic lexical prefixes in mental grammar: Evidence from priming in Bosnian/Croatian/Montenegrin/Serbian. _FASL 35_. \[[slides]({{ '/assets/pdf/beslin et al_prefixes_priming_slides.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
+
+<strong>Bešlin, Maša</strong> and Ruth Kramer. 2026. The impoverished bishop: Gender, number, and markedness in BCS. _FASL 35/WCCFL 44/BMW_. \[[handout]({{ '/assets/pdf/beslin_kramer_bishop_nouns.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
+
+<strong>Bešlin, Maša</strong>. 2025. Accounting for opacity effects at the form interface without the PIC. _NELS 56_. \[[poster]({{ '/assets/pdf/beslin_nels_PF opacity without PIC.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
 
 <strong>Bešlin, Maša</strong>. 2024. What's up with \`verbal' morphology in BCS agent nominals? _FDSL 17_. \[[slides]({{ '/assets/pdf/beslin_fdsl_nominals.pdf' | prepend: site.baseurl | prepend: site.url }}){:target="\_blank"}\]
 
