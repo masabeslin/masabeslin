@@ -17,4 +17,4 @@ My research is primarily in syntax and its interfaces with form and meaning, wit
 
 [My dissertation](https://ling.auf.net/lingbuzz/008838){:target="\_blank"} engages with the following questions: What are the basic building blocks of syntax and how do they map onto lexical categories, as traditionally construed? Does structure-building look the same above and below the ‘word’ level? Do locality effects in the syntax and at the interfaces have a common origin?
  
-Topics I've worked on include mixed categories (participles and nominalizations), locality in syntax and at the interfaces, ellipsis,  tense/aspect systems, allomorphy, raising, and issues in the extended projection of nominals (case, gender, the NP/DP debate).
+Topics I've worked on include mixed categories (participles and nominalizations), locality in syntax and at the interfaces, ellipsis,  tense/aspect, allomorphy, raising, and issues in the extended projection of nominals (case, gender, the NP/DP debate).
